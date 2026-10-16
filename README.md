@@ -142,3 +142,31 @@ supply-chain-efficiency-inventory-optimization/
 ├── Supply_Chain_Inventory_Dashboard.pbix
 ├── supply_chain_inventory_sample_data.csv
 └── dashboard_screenshot.png
+
+---
+
+## 💡 Business Insights
+
+The dashboard supports analysis of:
+
+- Monthly changes in recorded sales.
+- Differences between forecast and actual demand.
+- Supplier delivery performance.
+- Closing inventory across product categories.
+- Product-month records requiring replenishment attention.
+
+These analyses are based on synthetic sample data and should not be interpreted as actual company performance.
+
+## ✅ Conclusion
+
+This project demonstrates how Microsoft Power BI, Power Query, and DAX can be used to transform structured data into an interactive supply chain analytics dashboard.
+
+The report combines sales trends, demand forecasting comparisons, supplier delivery analysis, and inventory risk monitoring in a single reporting interface.
+
+## 👤 Author
+
+**Pranab Das**
+
+Aspiring Data Analyst | Power BI | Business Analytics
+
+- GitHub: [@mepranab](https://github.com/mepranab)
