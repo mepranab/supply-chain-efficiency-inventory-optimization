@@ -1,0 +1,121 @@
+Date,Month,Quarter,Year,Product ID,Product Name,Product Category,Supplier Name,Warehouse Location,Region,Opening Stock,Incoming Stock,Units Sold,Closing Stock,Reorder Level,Reorder Status,Lead Time (Days),Order Quantity,Delivery Status,Delivery Time (Days),Inventory Holding Cost,Stockout Status,Demand Forecast,Actual Demand,Forecast Accuracy %,Inventory Turnover Ratio
+2025-01-08,January,Q1,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Delhi NCR DC,North,183,66,22,227,54,Sufficient Stock,20,47,Delayed,24,103.48,No,17,25,68.0,0.11
+2025-01-11,January,Q1,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Mumbai DC,West,745,81,201,625,267,Sufficient Stock,5,468,On Time,2,42.35,No,231,255,90.6,0.29
+2025-01-14,January,Q1,2025,P1006,Printer Labels,Packaging,LabelWorks,Hyderabad DC,South,405,15,133,287,233,Sufficient Stock,28,211,Delayed,29,11.07,No,134,141,95.0,0.38
+2025-01-14,January,Q1,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Kolkata DC,East,95,9,18,86,52,Sufficient Stock,24,53,On Time,21,76.03,No,17,19,89.5,0.2
+2025-01-15,January,Q1,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Mumbai DC,West,96,36,48,84,39,Sufficient Stock,23,53,On Time,23,49.35,No,43,51,84.3,0.53
+2025-01-16,January,Q1,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Bengaluru DC,South,92,32,16,108,32,Sufficient Stock,12,48,On Time,12,99.15,No,17,17,100.0,0.16
+2025-01-20,January,Q1,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Guwahati DC,East,423,52,114,361,128,Sufficient Stock,20,196,Delayed,24,51.27,No,100,130,76.9,0.29
+2025-01-21,January,Q1,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Kolkata DC,East,279,0,291,0,141,Reorder Required,8,266,Delayed,10,0.0,Yes,124,108,85.2,2.09
+2025-01-21,January,Q1,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Delhi NCR DC,North,299,89,64,324,94,Sufficient Stock,11,161,Delayed,13,78.44,No,102,69,52.2,0.21
+2025-01-22,January,Q1,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Guwahati DC,East,129,53,25,157,78,Sufficient Stock,4,47,On Time,4,66.05,No,28,27,96.3,0.17
+2025-02-04,February,Q1,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Bengaluru DC,South,130,42,23,149,54,Sufficient Stock,16,79,Delayed,18,151.14,No,19,28,67.9,0.16
+2025-02-07,February,Q1,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Delhi NCR DC,North,96,57,17,136,52,Sufficient Stock,20,67,Delayed,28,99.1,No,22,20,90.0,0.15
+2025-02-11,February,Q1,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Mumbai DC,West,187,62,54,195,74,Sufficient Stock,19,80,On Time,16,80.97,No,62,69,89.9,0.28
+2025-02-19,February,Q1,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Mumbai DC,West,165,74,43,196,63,Sufficient Stock,10,56,Delayed,12,84.2,No,43,50,86.0,0.24
+2025-02-19,February,Q1,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Bengaluru DC,South,512,0,515,0,220,Reorder Required,11,401,On Time,11,0.0,Yes,94,80,82.5,2.01
+2025-02-19,February,Q1,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Kolkata DC,East,255,46,72,229,150,Sufficient Stock,18,132,Delayed,22,32.61,No,76,77,98.7,0.3
+2025-02-20,February,Q1,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Delhi NCR DC,North,511,29,114,426,132,Sufficient Stock,20,143,Delayed,24,83.62,No,87,121,71.9,0.24
+2025-02-22,February,Q1,2025,P1006,Printer Labels,Packaging,LabelWorks,Guwahati DC,East,354,123,77,400,186,Sufficient Stock,11,252,On Time,8,21.31,No,119,94,73.4,0.2
+2025-02-25,February,Q1,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Hyderabad DC,South,109,4,20,93,36,Sufficient Stock,20,42,On Time,15,125.46,No,23,25,92.0,0.2
+2025-02-26,February,Q1,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Kolkata DC,East,134,11,61,84,84,Reorder Required,28,75,On Time,23,35.59,No,74,69,92.8,0.56
+2025-03-08,March,Q1,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Delhi NCR DC,North,189,91,32,248,64,Sufficient Stock,3,90,On Time,1,89.94,No,29,37,78.4,0.15
+2025-03-08,March,Q1,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Mumbai DC,West,400,101,66,435,136,Sufficient Stock,12,246,On Time,7,71.97,No,74,79,93.7,0.16
+2025-03-10,March,Q1,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Hyderabad DC,South,98,22,22,98,61,Sufficient Stock,19,40,On Time,19,63.02,No,20,24,83.3,0.22
+2025-03-11,March,Q1,2025,P1006,Printer Labels,Packaging,LabelWorks,Kolkata DC,East,434,183,166,451,233,Sufficient Stock,20,368,Delayed,24,33.36,No,155,179,86.6,0.38
+2025-03-16,March,Q1,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Guwahati DC,East,88,27,12,103,33,Sufficient Stock,25,49,Delayed,29,91.43,No,9,13,69.2,0.13
+2025-03-19,March,Q1,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Bengaluru DC,South,124,45,36,133,62,Sufficient Stock,22,54,Delayed,24,68.18,No,47,45,95.6,0.28
+2025-03-22,March,Q1,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Hyderabad DC,South,755,0,760,0,254,Reorder Required,27,209,Delayed,28,0.0,Yes,139,96,55.2,2.01
+2025-03-23,March,Q1,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Bengaluru DC,South,183,52,69,166,86,Sufficient Stock,20,103,On Time,15,40.34,No,97,75,70.7,0.4
+2025-03-25,March,Q1,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Delhi NCR DC,North,267,4,144,127,168,Reorder Required,13,244,Delayed,17,17.09,No,147,148,99.3,0.73
+2025-03-25,March,Q1,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Mumbai DC,West,125,13,41,97,38,Sufficient Stock,17,48,On Time,17,75.15,No,30,43,69.8,0.37
+2025-04-05,April,Q2,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Bengaluru DC,South,454,29,70,413,148,Sufficient Stock,15,261,On Time,14,66.09,No,81,83,97.6,0.16
+2025-04-09,April,Q2,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Kolkata DC,East,111,35,30,116,36,Sufficient Stock,19,34,On Time,14,177.98,No,27,34,79.4,0.26
+2025-04-09,April,Q2,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Hyderabad DC,South,211,8,34,185,78,Sufficient Stock,15,179,On Time,10,77.05,No,41,39,94.9,0.17
+2025-04-11,April,Q2,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Hyderabad DC,South,134,26,31,129,67,Sufficient Stock,24,55,Delayed,32,100.77,No,26,34,76.5,0.24
+2025-04-19,April,Q2,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Mumbai DC,West,362,164,129,397,169,Sufficient Stock,8,237,Delayed,16,42.52,No,132,145,91.0,0.34
+2025-04-24,April,Q2,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Mumbai DC,West,164,19,69,114,70,Sufficient Stock,24,136,Delayed,26,65.83,No,63,74,85.1,0.5
+2025-04-25,April,Q2,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Guwahati DC,East,488,268,150,606,204,Sufficient Stock,10,450,On Time,9,29.86,No,174,157,89.2,0.27
+2025-04-26,April,Q2,2025,P1006,Printer Labels,Packaging,LabelWorks,Delhi NCR DC,North,590,153,88,655,220,Sufficient Stock,6,250,Delayed,14,40.63,No,99,100,99.0,0.14
+2025-04-26,April,Q2,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Bengaluru DC,South,87,4,31,60,45,Sufficient Stock,11,47,On Time,8,43.05,No,35,38,92.1,0.42
+2025-04-26,April,Q2,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Guwahati DC,East,129,59,44,144,50,Sufficient Stock,26,71,On Time,26,110.96,No,43,46,93.5,0.32
+2025-05-07,May,Q2,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Delhi NCR DC,North,110,19,11,118,28,Sufficient Stock,9,51,On Time,9,102.2,No,10,12,83.3,0.1
+2025-05-08,May,Q2,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Kolkata DC,East,749,166,97,818,267,Sufficient Stock,14,222,On Time,11,72.35,No,117,99,81.8,0.12
+2025-05-10,May,Q2,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Bengaluru DC,South,164,46,29,181,54,Sufficient Stock,22,97,Delayed,26,99.81,No,39,36,91.7,0.17
+2025-05-12,May,Q2,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Guwahati DC,East,182,0,185,0,81,Reorder Required,5,91,Delayed,9,0.0,Yes,74,96,77.1,2.03
+2025-05-15,May,Q2,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Guwahati DC,East,120,53,19,154,47,Sufficient Stock,23,40,On Time,18,131.22,No,18,23,78.3,0.14
+2025-05-15,May,Q2,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Bengaluru DC,South,411,86,150,347,114,Sufficient Stock,23,143,Delayed,31,37.57,No,141,161,87.6,0.4
+2025-05-23,May,Q2,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Hyderabad DC,South,279,48,44,283,174,Sufficient Stock,27,308,Delayed,28,49.3,No,64,52,76.9,0.16
+2025-05-25,May,Q2,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Hyderabad DC,South,110,45,15,140,39,Sufficient Stock,24,50,On Time,19,134.14,No,23,18,72.2,0.12
+2025-05-26,May,Q2,2025,P1006,Printer Labels,Packaging,LabelWorks,Mumbai DC,West,415,146,138,423,211,Sufficient Stock,5,264,Delayed,7,15.44,No,184,176,95.5,0.33
+2025-05-26,May,Q2,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Kolkata DC,East,103,28,25,106,50,Sufficient Stock,24,74,Delayed,32,85.46,No,38,30,73.3,0.24
+2025-06-03,June,Q2,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Kolkata DC,East,147,47,21,173,63,Sufficient Stock,17,65,On Time,12,92.53,No,25,22,86.4,0.13
+2025-06-09,June,Q2,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Hyderabad DC,South,296,156,92,360,126,Sufficient Stock,28,274,Delayed,32,29.14,No,104,110,94.5,0.28
+2025-06-09,June,Q2,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Guwahati DC,East,114,45,26,133,50,Sufficient Stock,12,54,Delayed,20,144.91,No,30,31,96.8,0.21
+2025-06-13,June,Q2,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Hyderabad DC,South,162,11,28,145,78,Sufficient Stock,6,118,On Time,5,58.83,No,40,34,82.4,0.18
+2025-06-15,June,Q2,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Mumbai DC,West,91,42,14,119,39,Sufficient Stock,16,50,On Time,11,154.12,No,16,16,100.0,0.13
+2025-06-17,June,Q2,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Delhi NCR DC,North,466,289,148,607,202,Sufficient Stock,5,517,On Time,2,46.75,No,167,183,91.3,0.28
+2025-06-23,June,Q2,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Delhi NCR DC,North,148,19,37,130,52,Sufficient Stock,16,77,Delayed,24,134.3,No,36,43,83.7,0.27
+2025-06-24,June,Q2,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Kolkata DC,East,213,96,65,244,83,Sufficient Stock,3,72,On Time,1,109.78,No,61,67,91.0,0.28
+2025-06-25,June,Q2,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Guwahati DC,East,395,44,116,323,180,Sufficient Stock,8,174,On Time,7,40.22,No,160,145,89.7,0.32
+2025-06-25,June,Q2,2025,P1006,Printer Labels,Packaging,LabelWorks,Bengaluru DC,South,354,151,95,410,218,Sufficient Stock,16,248,Delayed,24,19.42,No,129,115,87.8,0.25
+2025-07-02,July,Q3,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Mumbai DC,West,637,297,200,734,205,Sufficient Stock,25,266,Delayed,26,51.09,No,285,249,85.5,0.29
+2025-07-03,July,Q3,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Kolkata DC,East,79,0,81,0,52,Reorder Required,16,80,On Time,15,0.0,Yes,18,26,69.2,2.05
+2025-07-03,July,Q3,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Mumbai DC,West,132,69,27,174,44,Sufficient Stock,25,94,Delayed,33,103.5,No,35,34,97.1,0.18
+2025-07-10,July,Q3,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Kolkata DC,East,354,125,111,368,199,Sufficient Stock,9,224,Delayed,17,59.26,No,95,121,78.5,0.31
+2025-07-10,July,Q3,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Delhi NCR DC,North,204,50,81,173,101,Sufficient Stock,25,177,Delayed,33,72.68,No,78,84,92.9,0.43
+2025-07-12,July,Q3,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Guwahati DC,East,421,62,68,415,171,Sufficient Stock,28,165,On Time,27,45.91,No,62,79,78.5,0.16
+2025-07-17,July,Q3,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Guwahati DC,East,154,28,45,137,64,Sufficient Stock,27,99,Delayed,35,50.42,No,59,49,79.6,0.31
+2025-07-17,July,Q3,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Bengaluru DC,South,111,43,24,130,30,Sufficient Stock,15,60,Delayed,19,138.74,No,22,28,78.6,0.2
+2025-07-18,July,Q3,2025,P1006,Printer Labels,Packaging,LabelWorks,Hyderabad DC,South,405,237,153,489,150,Sufficient Stock,18,219,Delayed,22,26.29,No,175,166,94.6,0.34
+2025-07-26,July,Q3,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Delhi NCR DC,North,102,2,24,80,52,Sufficient Stock,28,57,On Time,27,44.91,No,21,28,75.0,0.26
+2025-08-03,August,Q3,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Bengaluru DC,South,108,47,13,142,50,Sufficient Stock,20,62,On Time,19,140.22,No,20,15,66.7,0.1
+2025-08-09,August,Q3,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Hyderabad DC,South,91,32,26,97,32,Sufficient Stock,27,27,On Time,22,100.98,No,26,28,92.9,0.28
+2025-08-10,August,Q3,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Kolkata DC,East,431,0,443,0,169,Reorder Required,10,260,Delayed,14,0.0,Yes,123,163,75.5,2.06
+2025-08-11,August,Q3,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Kolkata DC,East,214,52,45,221,55,Sufficient Stock,28,62,On Time,27,80.61,No,54,56,96.4,0.21
+2025-08-13,August,Q3,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Mumbai DC,West,186,82,46,222,53,Sufficient Stock,6,57,Delayed,8,151.3,No,59,55,92.7,0.23
+2025-08-14,August,Q3,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Delhi NCR DC,North,429,0,441,0,144,Reorder Required,17,313,On Time,16,0.0,Yes,131,152,86.2,2.06
+2025-08-16,August,Q3,2025,P1006,Printer Labels,Packaging,LabelWorks,Guwahati DC,East,335,55,63,327,182,Sufficient Stock,14,270,Delayed,15,22.36,No,89,73,78.1,0.19
+2025-08-17,August,Q3,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Mumbai DC,West,159,108,44,223,110,Sufficient Stock,12,145,On Time,9,55.46,No,73,56,69.6,0.23
+2025-08-19,August,Q3,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Delhi NCR DC,North,95,40,12,123,48,Sufficient Stock,23,84,On Time,20,132.86,No,13,13,100.0,0.11
+2025-08-24,August,Q3,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Bengaluru DC,South,537,0,546,0,309,Reorder Required,26,340,Delayed,27,0.0,Yes,174,203,85.7,2.03
+2025-09-02,September,Q3,2025,P1006,Printer Labels,Packaging,LabelWorks,Kolkata DC,East,343,0,352,0,193,Reorder Required,7,143,Delayed,8,0.0,Yes,121,115,94.8,2.05
+2025-09-04,September,Q3,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Bengaluru DC,South,169,74,71,172,76,Sufficient Stock,6,114,Delayed,10,72.09,No,83,79,94.9,0.42
+2025-09-06,September,Q3,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Hyderabad DC,South,807,128,210,725,258,Sufficient Stock,21,278,On Time,20,44.8,No,182,260,70.0,0.27
+2025-09-06,September,Q3,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Guwahati DC,East,98,5,29,74,35,Sufficient Stock,26,24,Delayed,27,86.36,No,28,33,84.8,0.34
+2025-09-09,September,Q3,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Bengaluru DC,South,186,67,24,229,66,Sufficient Stock,27,49,On Time,22,125.07,No,29,27,92.6,0.12
+2025-09-09,September,Q3,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Mumbai DC,West,98,15,18,95,49,Sufficient Stock,24,83,On Time,21,65.14,No,26,22,81.8,0.19
+2025-09-20,September,Q3,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Delhi NCR DC,North,352,19,126,245,129,Sufficient Stock,23,218,On Time,23,25.86,No,138,138,100.0,0.42
+2025-09-22,September,Q3,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Delhi NCR DC,North,127,43,26,144,69,Sufficient Stock,14,54,Delayed,16,76.92,No,47,31,48.4,0.19
+2025-09-22,September,Q3,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Mumbai DC,West,363,153,75,441,156,Sufficient Stock,22,329,On Time,17,78.42,No,61,86,70.9,0.19
+2025-09-25,September,Q3,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Hyderabad DC,South,88,34,21,101,45,Sufficient Stock,14,92,Delayed,16,57.24,No,22,27,81.5,0.22
+2025-10-10,October,Q4,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Mumbai DC,West,179,0,189,0,80,Reorder Required,25,71,On Time,24,0.0,Yes,72,73,98.6,2.11
+2025-10-14,October,Q4,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Kolkata DC,East,111,14,16,109,27,Sufficient Stock,22,59,On Time,21,96.92,No,17,17,100.0,0.15
+2025-10-14,October,Q4,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Bengaluru DC,South,106,30,16,120,40,Sufficient Stock,19,39,Delayed,21,103.36,No,20,20,100.0,0.14
+2025-10-15,October,Q4,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Mumbai DC,West,296,136,148,284,134,Sufficient Stock,16,257,On Time,16,30.1,No,117,169,69.2,0.51
+2025-10-16,October,Q4,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Hyderabad DC,South,128,4,39,93,54,Sufficient Stock,22,41,On Time,19,50.57,No,51,49,95.9,0.35
+2025-10-19,October,Q4,2025,P1006,Printer Labels,Packaging,LabelWorks,Delhi NCR DC,North,536,0,537,0,195,Reorder Required,13,283,Delayed,17,0.0,Yes,189,137,62.0,2.0
+2025-10-22,October,Q4,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Hyderabad DC,South,273,86,37,322,82,Sufficient Stock,27,142,Delayed,35,126.4,No,33,40,82.5,0.12
+2025-10-23,October,Q4,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Guwahati DC,East,587,39,130,496,266,Sufficient Stock,21,336,Delayed,22,24.98,No,132,153,86.3,0.24
+2025-10-26,October,Q4,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Bengaluru DC,South,350,32,46,336,151,Sufficient Stock,3,126,On Time,3,45.4,No,58,54,92.6,0.13
+2025-10-26,October,Q4,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Guwahati DC,East,129,69,49,149,54,Sufficient Stock,17,37,Delayed,25,126.46,No,47,58,81.0,0.35
+2025-11-03,November,Q4,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Kolkata DC,East,730,258,84,904,270,Sufficient Stock,22,474,Delayed,24,47.22,No,76,100,76.0,0.1
+2025-11-04,November,Q4,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Guwahati DC,East,142,13,24,131,49,Sufficient Stock,12,69,Delayed,14,95.49,No,26,27,96.3,0.18
+2025-11-10,November,Q4,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Bengaluru DC,South,180,28,16,192,65,Sufficient Stock,5,105,Delayed,9,96.85,No,24,19,73.7,0.09
+2025-11-11,November,Q4,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Kolkata DC,East,145,0,152,0,50,Reorder Required,14,72,On Time,11,0.0,Yes,25,25,100.0,2.1
+2025-11-17,November,Q4,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Bengaluru DC,South,275,106,59,322,172,Sufficient Stock,19,97,Delayed,21,45.2,No,53,67,79.1,0.2
+2025-11-19,November,Q4,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Hyderabad DC,South,513,139,47,605,181,Sufficient Stock,4,209,Delayed,6,119.89,No,62,58,93.1,0.08
+2025-11-21,November,Q4,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Hyderabad DC,South,80,10,19,71,40,Sufficient Stock,16,49,On Time,16,90.84,No,19,20,95.0,0.25
+2025-11-21,November,Q4,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Guwahati DC,East,197,61,49,209,104,Sufficient Stock,14,149,Delayed,22,67.72,No,57,52,90.4,0.24
+2025-11-23,November,Q4,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Delhi NCR DC,North,66,46,29,83,32,Sufficient Stock,19,54,Delayed,21,121.77,No,35,32,90.6,0.39
+2025-11-23,November,Q4,2025,P1006,Printer Labels,Packaging,LabelWorks,Mumbai DC,West,535,0,539,0,235,Reorder Required,8,386,Delayed,10,0.0,Yes,220,156,59.0,2.01
+2025-12-08,December,Q4,2025,P1008,Motor Assemblies,Electrical Parts,VoltEdge Manufacturing,Guwahati DC,East,74,32,13,93,36,Sufficient Stock,27,66,Delayed,28,80.47,No,16,14,85.7,0.16
+2025-12-11,December,Q4,2025,P1003,Hydraulic Hoses,Industrial Components,FlowTech Industries,Kolkata DC,East,180,0,183,0,57,Reorder Required,7,82,Delayed,11,0.0,Yes,55,51,92.2,2.03
+2025-12-11,December,Q4,2025,P1004,Packaging Cartons,Packaging,PackRight Ltd,Delhi NCR DC,North,515,299,103,711,209,Sufficient Stock,20,168,On Time,20,60.69,No,125,130,96.2,0.17
+2025-12-11,December,Q4,2025,P1005,Barcode Scanners,Electronics,ScanLogic Systems,Mumbai DC,West,81,0,89,0,36,Reorder Required,24,47,On Time,19,0.0,Yes,15,18,83.3,2.2
+2025-12-13,December,Q4,2025,P1007,Pallet Wrap,Packaging,PackRight Ltd,Hyderabad DC,South,351,125,55,421,160,Sufficient Stock,5,231,Delayed,13,31.53,No,65,60,91.7,0.14
+2025-12-13,December,Q4,2025,P1010,Conveyor Belts,Industrial Components,MotionLine Supply,Delhi NCR DC,North,156,58,31,183,51,Sufficient Stock,13,39,Delayed,15,158.27,No,46,34,64.7,0.18
+2025-12-15,December,Q4,2025,P1002,Safety Gloves,Safety Equipment,SafePro Supplies,Guwahati DC,East,286,215,58,443,163,Sufficient Stock,23,182,On Time,22,48.87,No,91,74,77.0,0.16
+2025-12-17,December,Q4,2025,P1006,Printer Labels,Packaging,LabelWorks,Bengaluru DC,South,338,66,82,322,184,Sufficient Stock,6,337,Delayed,8,13.27,No,119,104,85.6,0.25
+2025-12-18,December,Q4,2025,P1001,Industrial Bearings,Industrial Components,NorthStar Components,Hyderabad DC,South,208,43,57,194,63,Sufficient Stock,10,125,Delayed,12,130.89,No,52,71,73.2,0.28
+2025-12-26,December,Q4,2025,P1009,Protective Helmets,Safety Equipment,SafePro Supplies,Kolkata DC,East,162,58,39,181,100,Sufficient Stock,13,188,Delayed,21,68.41,No,50,45,88.9,0.23

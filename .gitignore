@@ -1,0 +1,11 @@
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Power BI backup files
+*.pbix.autosave
