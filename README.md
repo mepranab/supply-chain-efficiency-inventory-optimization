@@ -10,7 +10,13 @@ An interactive Power BI dashboard for analyzing inventory levels, sales trends, 
 
 ## 📊 Dashboard Preview
 
-![Supply Chain Dashboard](dashboard_screenshot.png)
+### Page 1 — Supply Chain Efficiency & Inventory Optimization
+
+![Dashboard Page 1](dashboard_page1.png)
+
+### Page 2 — Inventory & Delivery Details
+
+![Dashboard Page 2](dashboard_page2.png)
 
 *Executive dashboard developed using Microsoft Power BI Desktop.*
 
@@ -61,8 +67,13 @@ The dashboard includes KPI cards, trend analysis, demand comparisons, supplier d
 | Total Closing Stock | Sum of recorded closing stock |
 | Reorder Count | Number of records marked as requiring reorder |
 | Low Stock Risk Count | Number of records classified as low-stock risk |
+| Stockout Count | Number of records marked as stockout |
+| Average Lead Time | Average recorded lead time, in days |
+| On-Time Delivery % | Share of records labeled “On Time” |
+| Average Forecast Accuracy % | Average recorded forecast accuracy |
+| Total Inventory Holding Cost | Sum of recorded inventory holding cost |
 
-**Note:** Reorder Count and Low Stock Risk Count represent product-month records, not necessarily unique products.
+**KPI note:** Reorder, low-stock risk, and stockout counts represent product-month records, not necessarily unique products or individual events. On-Time Delivery % is calculated from the available delivery-status records.
 
 ---
 
@@ -82,6 +93,12 @@ Compares recorded closing inventory across product categories.
 
 ### 5. Inventory Risk Analysis
 Shows records classified into low-stock risk and sufficient-stock categories.
+
+### 6. Delivery Status Breakdown
+Visualizes the distribution of records labeled “On Time” and “Delayed.”
+
+### 7. Interactive Filters
+Allows users to filter the report by available categories, regions, suppliers, and warehouse locations.
 
 ---
 
@@ -107,7 +124,7 @@ The dataset includes product information, suppliers, warehouse locations, invent
 4. Created DAX measures for KPI calculations.
 5. Developed an inventory risk classification.
 6. Built visuals for sales, inventory, demand, and delivery analysis.
-7. Arranged the visuals into an executive dashboard.
+7. Arranged the visuals into a two-page dashboard.
 8. Reviewed the report before preparing it for publication.
 
 ---
@@ -126,8 +143,8 @@ The dataset includes product information, suppliers, warehouse locations, invent
 
 - The dataset is synthetic and does not represent real business transactions.
 - The dataset contains monthly product observations rather than a complete daily transaction history.
-- Reorder and inventory risk counts represent records rather than unique products.
-- Delivery analysis is limited to the available delivery fields.
+- Reorder, inventory risk, and stockout counts represent records rather than unique products or verified individual events.
+- Delivery analysis is limited to the available delivery-status fields.
 - The dataset does not provide all the information required to calculate metrics such as true cost-based inventory turnover or economic order quantity.
 
 The dashboard is intended for learning and demonstration, not as a replacement for validated operational data.
@@ -141,32 +158,6 @@ supply-chain-efficiency-inventory-optimization/
 ├── README.md
 ├── Supply_Chain_Inventory_Dashboard.pbix
 ├── supply_chain_inventory_sample_data.csv
+├── dashboard_page1.png
+├── dashboard_page2.png
 └── dashboard_screenshot.png
-
----
-
-## 💡 Business Insights
-
-The dashboard supports analysis of:
-
-- Monthly changes in recorded sales.
-- Differences between forecast and actual demand.
-- Supplier delivery performance.
-- Closing inventory across product categories.
-- Product-month records requiring replenishment attention.
-
-These analyses are based on synthetic sample data and should not be interpreted as actual company performance.
-
-## ✅ Conclusion
-
-This project demonstrates how Microsoft Power BI, Power Query, and DAX can be used to transform structured data into an interactive supply chain analytics dashboard.
-
-The report combines sales trends, demand forecasting comparisons, supplier delivery analysis, and inventory risk monitoring in a single reporting interface.
-
-## 👤 Author
-
-**Pranab Das**
-
-Aspiring Data Analyst | Power BI | Business Analytics
-
-- GitHub: [@mepranab](https://github.com/mepranab)
